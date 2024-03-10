@@ -1,0 +1,48 @@
+{
+	"minVersion": "0.1",
+	"headerImage": "https://raw.githubusercontent.com/uchks/repo.me/master/assets/Banners/RepoHeader.png",
+	"tintColor": "#ffae8e",
+	"tabs": [
+		{
+			"tabname": "Details",
+			"views": [
+				{
+					"class": "DepictionMarkdownView",
+					"markdown": "## CAPerfHUD\nEnable system-wide performance HUD"
+				},
+				{
+					"class": "DepictionSeparatorView"
+				},
+				{
+					"title": "Latest Version",
+					"class": "DepictionHeaderView"
+				},
+				{
+					"title": "Version",
+					"text": "1.0",
+					"class": "DepictionTableTextView"
+				},
+				{
+					"title": "Developer",
+					"text": "khanhduytran0",
+					"class": "DepictionTableTextView"
+				},
+				{
+					"title": "Source code",
+					"action": "https://github.com/khanhduytran0/CAPerfHUD",
+					"class": "DepictionTableButtonView"
+				},
+				{
+					"spacing": 16,
+					"class": "DepictionSpacerView"
+				},
+				{
+					"spacing": 20,
+					"class": "DepictionSpacerView"
+				}
+			],
+			"class": "DepictionStackView"
+		}
+	],
+	"class": "DepictionTabView"
+}

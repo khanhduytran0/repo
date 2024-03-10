@@ -1,3 +1,37 @@
+Package: com.kdt.caperfhudmodule
+Architecture: iphoneos-arm
+Version: 1.0.0
+Section: Control Center (Modules)
+Maintainer: khanhduytran0
+Installed-Size: 260
+Depends: com.opa334.ccsupport, firmware (>= 13.0)
+Filename: ./debians/com.kdt.caperfhudmodule_1.0.0_iphoneos-arm.deb
+Size: 20394
+MD5sum: f25996a569e0ccb521789350e3a545ee
+SHA1: 02477fdb675d8224eaec2c903672a78a26f2068b
+SHA256: 7d07e4b6fa8dfa4db980b42828970b52f1591507f2790c16c819184a0d6445ab
+SHA512: 8e58b600c924de8c7a2b83d4612aa8b9875cab79d50e0d73131550711d3a40e65b3f67bfa554ad1283574edf4b742396d4bdd1fe2c98daef43be990d7b43c7e5
+Description: Enable system-wide performance HUD from the control center.
+Name: CAPerfHUDModule
+Author: khanhduytran0
+
+Package: com.kdt.caperfhudmodule
+Architecture: iphoneos-arm64
+Version: 1.0.0
+Section: Control Center (Modules)
+Maintainer: khanhduytran0
+Installed-Size: 260
+Depends: com.opa334.ccsupport, firmware (>= 13.0)
+Filename: ./debians/com.kdt.caperfhudmodule_1.0.0_iphoneos-arm64.deb
+Size: 20376
+MD5sum: d49276195399bceb4636816ca6e08311
+SHA1: bc341afd8f21a13ed72619b9e39746a778738025
+SHA256: d552e1d4b7c75bba022bf373ac0478784403c3e5c70568af056cfffb4cb3d24a
+SHA512: 647f04aa9fb70475e2ac28c97515cf86886a86c43703fe7cd42e713bf8d0a9ae0d78510088fa9081544aff6e1f0802e2b97478142968c410d4de894b53266ba0
+Description: Enable system-wide performance HUD from the control center.
+Name: CAPerfHUDModule
+Author: khanhduytran0
+
 Package: com.kdt.trollpad
 Architecture: iphoneos-arm
 Version: 1.2.2
