@@ -8,7 +8,7 @@
 			"views": [
 				{
 					"class": "DepictionMarkdownView",
-					"markdown": "## TrollPad\nTroll SpringBoard into thinking it's running on iPadOS"
+					"markdown": "## TrollPad\nThis tweak enables many iPadOS features on iPhone, including:\n- Floating dock\n- Floating keyboard\n- Grid app switcher\n- Multitasking button\n- Slide over\n- Split view\n- Stage Manager (including AirPlay as external display)\n- Upside down orientation"
 				},
 				{
 					"class": "DepictionSeparatorView"
@@ -20,16 +20,6 @@
 				{
 					"title": "Version",
 					"text": "1.2.2",
-					"class": "DepictionTableTextView"
-				},
-				{
-					"title": "Released",
-					"text": "RELEASE_DATE",
-					"class": "DepictionTableTextView"
-				},
-				{
-					"title": "Price",
-					"text": "Free",
 					"class": "DepictionTableTextView"
 				},
 				{
@@ -70,11 +60,6 @@
 				{
 					"markdown": "\t\n\u2022 Unlock floating keyboard (iOS 16+ only for now)",
 					"useSpacing": false,
-					"class": "DepictionMarkdownView"
-				},
-				{
-					"markdown": "<small style=\"color: #999; margin-top: -8px;\">Released RELEASE_DATE</small>",
-					"useRawFormat": true,
 					"class": "DepictionMarkdownView"
 				}
 			],
