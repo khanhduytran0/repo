@@ -1,0 +1,37 @@
+Architectures: iphoneos-arm64
+Codename: CODENAME_HERE
+Components: main
+Date: Sun, 10 Mar 2024 11:07:38 +0000
+Description: khanhduytran0's personal jailbreak repo
+Label: khanhduytran0's repo
+Origin: khanhduytran0's repo
+Suite: stable
+Version: 1.0
+MD5Sum:
+ 8f70bb7c3548759b6d53d7b279daf184             1732 Packages
+ b98580feb0abf7112f8976b6dd1b43a1              855 Packages.bz2
+ f3481016227812db03bd92a3b8612bd1              751 Packages.gz
+ ab3489611bbf7602714f26d374f1ee49              796 Packages.xz
+ 28ff0c103b005d5e800fcb791cf248d1              730 Packages.zst
+ 87bc4c98c82dec011fe3973cb32ac80c              246 Release
+SHA1:
+ af45d506e44d9e4604d96f24ecbec1c1aca61f3b             1732 Packages
+ 5e71c42843c9e9783301be9855d3430c2b92a14a              855 Packages.bz2
+ 5cf17c6587d9a302c1f6c132af2a946f8c03f7af              751 Packages.gz
+ 8adf529571d5579231ec638dbb19f39040a3b907              796 Packages.xz
+ a42300d4fda84b3a16cb53d64c53821cd5270e49              730 Packages.zst
+ 7fcc7ca6ac90bc9c13f22f652c69274045483460              246 Release
+SHA256:
+ f6945c1d5784e7811be87e5a33130d423657305d77073968bd97e35be53ec5e7             1732 Packages
+ 872b82203e387171b45a9914ae0ab2a7086cd89560be29c7ba616b504f3288b1              855 Packages.bz2
+ e4bd2cb649e6fa00a332496421c418a65fde9d8e437db43d31737ea18e313d66              751 Packages.gz
+ fb0ef357c0b7f7ee44bced136e34d3a843cfd6f3e373473d48cbccdecb6f2640              796 Packages.xz
+ 7d767e5c73dc49c4f5341406841bfb6276f85bf9ae121390d14cae28b96afecf              730 Packages.zst
+ c3f1f60669a5641ec88db35993901e1894a8a3aeed9814a0259cca2f1f94ef8b              246 Release
+SHA512:
+ 5c5ce609630b2b78eaf99fd86a025607d4bd30672bcec0113055f66bcbbbe89188a0f702214f74f9904d895abd463ebbda2cf4b1f972fc8fc09cf5761bade580             1732 Packages
+ bfe9b95fd3a4ad61930f6ba3d8f1e3cef7d8c8143091c881c9ba05e2177257670fef220f06f7b6b18a3e40a455671eeb2adfec1ad3f56bbeea6a8fc2933022bd              855 Packages.bz2
+ 02b77997754b746e90b28510c79a088130b7213d587a98e287f0678f04f434d0d5797c5be810ca22921d5b279d8d867b935c9c09143724a8a091b3b34d1786b6              751 Packages.gz
+ 804999dde0b3ebc278d3343fd52c60ee9ac6d3d01dad82b93c1cb03faf6cfc7c4af018e708d9c6409efa0b6fc81340b37fbe6575d3aa993ae52819fe3a2669c7              796 Packages.xz
+ 51a799f7cb16f82a7316f14c32fe01bfefe2ae34e0549ffcb159a830fd3830021551a365987619c61617ba5004e703f8edda942a7c167f8af04387ece7920223              730 Packages.zst
+ 1cf24bc7c30b84fc62ef6a37a80c742d11cb76dabb36aebe648f72dda17d0ecfe00bf87f3c00dea9842ba81bf7f889dc6c064783a6d8bdae04b0e732537f897e              246 Release

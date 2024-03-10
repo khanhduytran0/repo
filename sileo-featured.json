@@ -5,8 +5,8 @@
   "banners": [
     {
         "url": "https://raw.githubusercontent.com/uchks/repo.me/master/assets/Banners/RepoHeader.png",
-        "title": "Sample Package",
-        "package": "com.example.sample",
+        "title": "TrollPad",
+        "package": "com.kdt.trollpad",
         "hideShadow": false
     }
   ]

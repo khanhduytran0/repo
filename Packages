@@ -1,0 +1,38 @@
+Package: com.kdt.trollpad
+Architecture: iphoneos-arm
+Version: 1.2.2
+Section: Tweaks
+Maintainer: khanhduytran0
+Installed-Size: 532
+Depends: mobilesubstrate (>= 0.9.5000), firmware (>= 15.0), plistbuddy
+Filename: ./debians/com.kdt.trollpad_1.2.2_iphoneos-arm.deb
+Size: 25570
+MD5sum: 3a9fe2ce5e75d804af5124d6e93c47d1
+SHA1: 2b761c01be8c7170fcc93e8cdcfa02c241b10274
+SHA256: 181bd1131085d7e17b0a49e81d3a52b075748a75bdaeb186573449ab2c8953d8
+SHA512: 6141bb0e7c762ab06b6f508bd325394d7e5bf0d7aa308875150f79376d10cf0b2b5fc1412659240beb226f66ddb2ecf91753e93f9460a517778ec48a09e08eb8
+Description: Troll SpringBoard into thinking it's running on iPadOS.
+Name: TrollPad
+Author: khanhduytran0
+Depiction: https://khanhduytran0.github.io/repo/depictions/web/?p=com.kdt.trollpad
+SileoDepiction: https://khanhduytran0.github.io/repo/depictions/native/com.kdt.trollpad/depiction.json
+
+Package: com.kdt.trollpad
+Architecture: iphoneos-arm64
+Version: 1.2.2
+Section: Tweaks
+Maintainer: khanhduytran0
+Installed-Size: 532
+Depends: mobilesubstrate (>= 0.9.5000), firmware (>= 15.0), plistbuddy
+Filename: ./debians/com.kdt.trollpad_1.2.2_iphoneos-arm64.deb
+Size: 25644
+MD5sum: d6b7b6221ccd661951070714b8242574
+SHA1: 3678ac6898e51a2d0442e6cc8610d365fcd497ad
+SHA256: d970d16d57ac57ba7597ca135a8c294941928babbe916564090388585203cbfa
+SHA512: 1d3eb54333954294b108563f4bb5ac2773f2110c453a2f68ee6481aa6ce4321701c1d8c54e7a8c7506ecd40f5b544a95537380f433d3f90d636c6c311568b975
+Description: Troll SpringBoard into thinking it's running on iPadOS.
+Name: TrollPad
+Author: khanhduytran0
+Depiction: https://khanhduytran0.github.io/repo/depictions/web/?p=com.kdt.trollpad
+SileoDepiction: https://khanhduytran0.github.io/repo/depictions/native/com.kdt.trollpad/depiction.json
+

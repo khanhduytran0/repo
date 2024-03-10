@@ -8,7 +8,7 @@
 			"views": [
 				{
 					"class": "DepictionMarkdownView",
-					"markdown": "## TWEAK_NAME\nSHORT_DESCRIPTION"
+					"markdown": "## TrollPad\nTroll SpringBoard into thinking it's running on iPadOS"
 				},
 				{
 					"class": "DepictionSeparatorView"
@@ -19,7 +19,7 @@
 				},
 				{
 					"title": "Version",
-					"text": "VERSION_NUMBER",
+					"text": "1.2.2",
 					"class": "DepictionTableTextView"
 				},
 				{
@@ -29,17 +29,17 @@
 				},
 				{
 					"title": "Price",
-					"text": "PRICE",
+					"text": "Free",
 					"class": "DepictionTableTextView"
 				},
 				{
 					"title": "Developer",
-					"text": "DEVELOPER_NAME",
+					"text": "khanhduytran0",
 					"class": "DepictionTableTextView"
 				},
 				{
-					"title": "Website",
-					"action": "WEBSITE_HERE",
+					"title": "Source code",
+					"action": "https://github.com/khanhduytran0/TrollPad",
 					"class": "DepictionTableButtonView"
 				},
 				{
@@ -62,13 +62,13 @@
 			"tabname": "Changelog",
 			"views": [
 				{
-					"title": "VERSION_NUMBER",
+					"title": "1.2.2",
 					"useBoldText": true,
 					"useBottomMargin": true,
 					"class": "DepictionSubheaderView"
 				},
 				{
-					"markdown": "\t\n\u2022 UPDATE_DESCRIPTION",
+					"markdown": "\t\n\u2022 Unlock floating keyboard (iOS 16+ only for now)",
 					"useSpacing": false,
 					"class": "DepictionMarkdownView"
 				},
