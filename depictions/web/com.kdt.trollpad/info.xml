@@ -1,7 +1,7 @@
 <package>
 	<id>com.kdt.trollpad</id>
 	<name>TrollPad</name>
-	<version>1.2.2</version>
+	<version>1.2.3</version>
 	<compatibility>
 		<firmware>
 			<miniOS>15.0</miniOS>
@@ -33,9 +33,11 @@
 			<description>This is a description for screenshot 1. It's Cydia!</description>
 			<image>cydia.jpg</image>
 	</screenshots>
+<!--
 	<changelog>
-		<change>Unlock floating keyboard (iOS 16+ only for now)</change>
+		<change>Please check GitHub latest release</change>
 	</changelog>
+-->
 	<links>
 		<link>
 			<name>Source code</name>

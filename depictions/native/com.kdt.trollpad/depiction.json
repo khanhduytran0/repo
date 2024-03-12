@@ -19,7 +19,7 @@
 				},
 				{
 					"title": "Version",
-					"text": "1.2.2",
+					"text": "1.2.3",
 					"class": "DepictionTableTextView"
 				},
 				{
@@ -52,13 +52,24 @@
 			"tabname": "Changelog",
 			"views": [
 				{
+					"title": "1.2.3",
+					"useBoldText": true,
+					"useBottomMargin": true,
+					"class": "DepictionSubheaderView"
+				},
+				{
+					"markdown": "\n- Add switches to control extra keyboard buttons and force Medusa on games\n- Fix UI issues with home button iPhones\n- Fix truncated app name in app switcher",
+					"useSpacing": false,
+					"class": "DepictionMarkdownView"
+				}
+				{
 					"title": "1.2.2",
 					"useBoldText": true,
 					"useBottomMargin": true,
 					"class": "DepictionSubheaderView"
 				},
 				{
-					"markdown": "\t\n\u2022 Unlock floating keyboard (iOS 16+ only for now)",
+					"markdown": "\n- Unlock floating keyboard (iOS 16+ only for now)",
 					"useSpacing": false,
 					"class": "DepictionMarkdownView"
 				}
