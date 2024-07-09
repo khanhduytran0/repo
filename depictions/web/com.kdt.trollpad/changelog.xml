@@ -1,7 +1,7 @@
 <changelog>
 	<changes>
 		<version>1.3</version>
-		<change>- You can now resize window from all 4 corners (applies to windows on the external display only)\n- Add a switch to control the visibility of resize corners\n- Fix status bar and red bar issues on the external display</change>
+		<change>- You can now resize window more freely, and resize from all 4 corners (applies to windows on the external display only)\n- Add a switch to control the visibility of resize corners\n- Fix status bar and red bar issues on the external display</change>
 		<version>1.2.3</version>
 		<change>- Add switches to control extra keyboard buttons and force Medusa on games\n- Fix UI issues with home button iPhones\n- Fix truncated app name in app switcher</change>
 		<version>1.2.2</version>

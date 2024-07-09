@@ -58,7 +58,7 @@
 					"class": "DepictionSubheaderView"
 				},
 				{
-					"markdown": "\n- You can now resize window from all 4 corners (applies to windows on the external display only)\n- Add a switch to control the visibility of resize corners\n- Fix status bar and red bar issues on the external display",
+					"markdown": "\n- You can now resize window more freely, and resize from all 4 corners (applies to windows on the external display only)\n- Add a switch to control the visibility of resize corners\n- Fix status bar and red bar issues on the external display",
 					"useSpacing": false,
 					"class": "DepictionMarkdownView"
 				},
