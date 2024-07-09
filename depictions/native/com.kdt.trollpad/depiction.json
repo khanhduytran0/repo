@@ -52,6 +52,17 @@
 			"tabname": "Changelog",
 			"views": [
 				{
+					"title": "1.3",
+					"useBoldText": true,
+					"useBottomMargin": true,
+					"class": "DepictionSubheaderView"
+				},
+				{
+					"markdown": "\n- You can now resize window from all 4 corners (applies to windows on the external display only)\n- Add a switch to control the visibility of resize corners\n- Fix status bar and red bar issues on the external display",
+					"useSpacing": false,
+					"class": "DepictionMarkdownView"
+				},
+				{
 					"title": "1.2.3",
 					"useBoldText": true,
 					"useBottomMargin": true,
@@ -61,7 +72,7 @@
 					"markdown": "\n- Add switches to control extra keyboard buttons and force Medusa on games\n- Fix UI issues with home button iPhones\n- Fix truncated app name in app switcher",
 					"useSpacing": false,
 					"class": "DepictionMarkdownView"
-				}
+				},
 				{
 					"title": "1.2.2",
 					"useBoldText": true,
